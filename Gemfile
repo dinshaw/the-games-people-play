@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.3.0'
 gem 'rails', '4.2.6'
-gem 'sqlite3'
+gem 'pg', '~> 0.18'
 
 
 gem 'actionview-encoded_mail_to', '~> 1.0'
