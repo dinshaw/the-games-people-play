@@ -6,6 +6,7 @@ gem 'pg', '~> 0.18'
 
 
 gem 'actionview-encoded_mail_to', '~> 1.0'
+gem 'actionpack-page_caching'
 gem 'active_link_to', '~> 1.0'
 gem 'bootstrap', '~> 4.0.0.alpha3'
 gem 'bootstrap4-kaminari-views', '~> 1.0'
